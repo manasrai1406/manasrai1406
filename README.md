@@ -1,43 +1,31 @@
-<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Manas Rai </h1>
-<h3 align="center">A Devloper from India 🇮🇳 </h3>
+<h1 align="center">Hi 👋, I'm Kushagra Srivastava</h1>
+<h3 align="center">A Deep Learning enthusiast from India</h3>
 
-## 📈 Stats
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devanshu0605&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu0605&theme=tokyonight" />
+[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagrathisside&label=Profile%20views&color=0e75b6&style=flat" alt="kushagrathisside" /> </p>)
+<br>
+- 🌱 I’m currently learning **Deep Learning (DeepLearning.AI specialization)**
+
+- 💬 Topics up for discussion **Machine Learning, Neural Nets**
+
+- 📫 How to reach me **kushagrathisside@gmail.com**
+
+- ⚡ Fun fact **Being attentive adds a lot to your mental power. Afterall, everything is data and data is 💖**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dev.to/kushagrathisside" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/kushagrathisside" height="30" width="40" /></a>
+<a href="https://twitter.com/kushagrathissid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushagrathissid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kushagrathisside" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushagrathisside" height="30" width="40" /></a>
+<a href="https://kaggle.com/kushagrathisside" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kushagrathisside" height="30" width="40" /></a>
+<a href="https://instagram.com/kushagrathisside" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushagrathisside" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kushagrathisside" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kushagrathisside" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kushagrathisside" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kushagrathisside" height="30" width="40" /></a>
+<a href="https://discord.gg/Kushagra#0030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kushagra#0030" height="30" width="40" /></a>
 </p>
+  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushagrathisside&show_icons=true&locale=en" alt="kushagrathisside" /></p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=devanshu0605&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
-## ⚡ Technologies
-
-### Language :
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
-![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
-![Dart](https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=Dart)
-
-### Libraries & Framework :
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-E10098?style=flat-square&logo=tailwind)
-![Apollo GraphQL](https://img.shields.io/badge/-Angular%20-311C87?style=flat-square&logo=apollo-graphql)
-![Flutter](https://img.shields.io/badge/-flutter-007ACC?style=flat-square&logo=Flutter)
-
-## 💰 Support
-<p>
-<a href='https://www.buymeacoffee.com/devanshu21p' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
-</p>
-
-## 📫 Connect with me here:
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Devanshu_saxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/devanshu-saxena01/)](https://www.linkedin.com/in/devanshu-saxena01/)
-[![Instagram Badge](https://img.shields.io/badge/-devanshu0_1-purple?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/devanshu0_1/)](https://www.instagram.com/devanshu0_1/)
-[![Gmail Badge](https://img.shields.io/badge/-devanshu2125.csme@kiet.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devanshu.2125csme@kiet.edu)](mailto:devanshu2125.csme@kiet.edu)
-[![Twitter Badge](https://img.shields.io/badge/-Devanshu-darkred?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DEVANSHU0_1)](https://twitter.com/DEVANSHU0_1)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagrathisside&" alt="kushagrathisside" /></p>
