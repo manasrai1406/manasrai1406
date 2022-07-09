@@ -5,7 +5,7 @@
 <br>
 - 🌱 I’m currently learning **Deep Learning (DeepLearning.AI specialization)**
 
-- 💬 Topics up for discussion **Machine Learning, Neural Nets**
+- 💬 Topics up for discussion **Machine Learning **
 
 - 📫 How to reach me **manas@gmail.com**
 
