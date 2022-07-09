@@ -7,7 +7,7 @@
 
 - 💬 Topics up for discussion **Machine Learning **
 
-- 📫 How to reach me **mailto:mrai73759@gmail.com**
+- 📫 How to reach me **mrai73759@gmail.com**
 
 
  
