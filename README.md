@@ -1,17 +1,38 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Manas Rai</h1>
-<h3 align="center">A Deep Learning enthusiast from India</h3>
+<h1 align="center">Hey... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Manas Rai </h1>
+<h3 align="center">ML enthusiast from India 🇮🇳 </h3>
 
-[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasrai1406&label=Profile%20views&color=0e75b6&style=flat" alt="manasrai1406" /> </p>)
-<br>
-- 🌱 I’m currently learning **Deep Learning (DeepLearning.AI specialization)**
+<p align="center">
 
-- 💬 Topics up for discussion **Machine Learning **
-
-- 📫 How to reach me **mrai73759@gmail.com**
+<!--     <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Building-India's-Largest-Student-Community"/> -->
+</p>
 
 
- 
+## 📈 Stats
+<p align="center">
+
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manasrai1406&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manasrai1406&theme=tokyonight" />
+</p>
+
+
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=manasrai1406&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasrai1406&show_icons=true&locale=en" alt="manasrai1406" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasrai1406&" alt="manasrai1406" /></p>
+
+
